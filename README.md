@@ -1,4 +1,4 @@
-<a href="https://www.notion.so/Hayden-11f2854fd22e49c3946fdf2f7a4b23a1" target="_blank"><img src="https://img.shields.io/badge/notion-A4A4A4?style=flat&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://www.notion.so/Hayden-11f2854fd22e49c3946fdf2f7a4b23a1" target="_blank"><img src="https://img.shields.io/badge/notion-2E2E2E?style=flat&logo=notion&logoColor=FFFFFF"/></a>
 
 
 <!---
