@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Hayden&color=151515)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=200&text=Hayden&fontColor=FFFFFF&fontSize=70&fontAlignY=40&fontAlign=80)
 
 
 <a href="https://www.notion.so/Hayden-11f2854fd22e49c3946fdf2f7a4b23a1" target="_blank"><img src="https://img.shields.io/badge/notion-2E2E2E?style=flat&logo=notion&logoColor=FFFFFF"/></a>
