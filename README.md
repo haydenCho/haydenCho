@@ -33,10 +33,10 @@
 <br/>
 
 #### :dart: Currently
-- 🌱 Studying for **NCA (Naver Cloud Platform Certified Associate)** certification
-- ☁️ Building hands-on AWS infrastructure projects (EC2, RDS, VPC, ALB/ASG, IAM)
-- 🔐 Exploring Linux server security & remote auditing automation
-- 🔄 Transitioning career focus from Frontend → **Cloud Infra & Security**
+🌱 Studying for **NCA (Naver Cloud Platform Certified Associate)** certification <br/>
+☁️ Building hands-on AWS infrastructure projects (EC2, RDS, VPC, ALB/ASG, IAM) <br/>
+🔐 Exploring Linux server security & remote auditing automation <br/>
+🔄 Transitioning career focus from Frontend → **Cloud Infra & Security** <br/>
 
 <br/>
 
