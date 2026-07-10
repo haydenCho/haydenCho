@@ -1,50 +1,43 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=200&text=EunsolCho&fontColor=FFFFFF&fontSize=70&fontAlignY=40&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0a0a5c&height=200&text=EunsolCho&fontColor=FFFFFF&fontSize=70&fontAlignY=40&fontAlign=80)
 
 #### :wave: Welcome to my GitHub profile!
 
 <br/>
 
 #### :cloud: Cloud & Infra
-<img src="https://api.iconify.design/logos:aws.svg" width="40" height="40" alt="AWS"/>
-<img src="https://api.iconify.design/logos:aws-ec2.svg" width="40" height="40" alt="EC2"/>
-<img src="https://api.iconify.design/logos:aws-rds.svg" width="40" height="40" alt="RDS"/>
-<img src="https://api.iconify.design/logos:aws-iam.svg" width="40" height="40" alt="IAM"/>
-<img src="https://api.iconify.design/logos:nginx.svg" width="40" height="40" alt="Nginx"/>
-<img src="https://api.iconify.design/logos:linux-tux.svg" width="40" height="40" alt="Linux"/>
-<img src="https://api.iconify.design/logos:ubuntu.svg" width="40" height="40" alt="Ubuntu"/>
-
-<br/>
-<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat&logo=amazonrds&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazoniam&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF"/>
 <br/>
 
 #### :closed_lock_with_key: Backend & Security
-<img src="https://api.iconify.design/logos:python.svg" width="40" height="40" alt="Python"/>
-<img src="https://api.iconify.design/logos:mariadb.svg" width="40" height="40" alt="MariaDB"/>
-<img src="https://api.iconify.design/logos:mysql.svg" width="40" height="40" alt="MySQL"/>
-<img src="https://api.iconify.design/logos:bash-icon.svg" width="40" height="40" alt="Bash"/>
-
-<br/>
-<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=flat&logo=gnubash&logoColor=FFFFFF"/>
 <br/>
 
 #### :computer: Also Used
-<img src="https://api.iconify.design/logos:c.svg" width="40" height="40" alt="C"/>
-<img src="https://api.iconify.design/logos:c-plusplus.svg" width="40" height="40" alt="C++"/>
-<img src="https://api.iconify.design/logos:java.svg" width="40" height="40" alt="Java"/>
-<img src="https://api.iconify.design/logos:javascript.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://api.iconify.design/logos:react.svg" width="40" height="40" alt="React"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=FFFFFF"/>
 
-<br/>
 <br/>
 <br/>
 
 #### :dart: Currently
-- 🌱 Studying for **NCA (Naver Cloud Platform Certified Associate)** certification
-- ☁️ Building hands-on AWS infrastructure projects (EC2, RDS, VPC, ALB/ASG, IAM)
-- 🔐 Exploring Linux server security & remote auditing automation
-- 🔄 Transitioning career focus from Frontend → **Cloud Infra & Security**
+🌱 Studying for 정보보안기사 (Information Security Engineer) certification <br/>
+☁️ Building hands-on AWS infrastructure projects (EC2, RDS, VPC, ALB/ASG, IAM) <br/>
+🔐 Exploring Linux server security & remote auditing automation <br/>
+🔄 Transitioning career focus from Frontend → **Cloud Infra & Security** <br/>
 
 <br/>
 
