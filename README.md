@@ -53,6 +53,8 @@
 
 #### :pencil2: Log & Stats
 <a href="https://www.notion.so/Hayden-11f2854fd22e49c3946fdf2f7a4b23a1" target="_blank"><img src="https://img.shields.io/badge/Notion-2E2E2E?style=flat&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://haydencho.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5F00?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
+<a href="https://haydencho.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=FFFFFF"/></a>
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haydenCho&layout=compact)
 ![Hayden's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=haydenCho&show_icons=true&theme=graywhite)
